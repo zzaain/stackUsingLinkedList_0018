@@ -24,3 +24,6 @@ private:
     {
         top = NULL;
     }
+
+ int push(int value)
+{
