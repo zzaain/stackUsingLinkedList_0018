@@ -64,3 +64,9 @@ private:
             cout << endl;
         }
     }
+
+    bool isEmpty()
+    {
+        return top == NULL;
+    }
+};
